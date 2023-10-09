@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **ITP project & MAD project**
+- 🔭 I’m currently working on **FDM project**
 
-- 🌱 I’m currently learning **MERAN stack**
+- 🌱 I’m currently learning **Machine Learning Algorithms**
 
 - ⚡ Fun fact **I'm a good bathroom singer 😉**
 
